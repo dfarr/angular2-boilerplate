@@ -1,0 +1,5 @@
+.DS_STORE
+.vscode
+.bin
+node_modules
+npm-debug.log
